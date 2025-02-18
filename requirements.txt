@@ -1,3 +1,6 @@
+git add .
+git commit -m plugins.web_support
+git push heroku main
 pyrogram==2.0.80
 TgCrypto
 motor
